@@ -1,15 +1,14 @@
-import './App.css'
-import UseReducer2 from './Reducer/useReducer2'
-import UseReducer from './Reducer/useReducer2'
+import Redux1 from "./Redux/Redux1";
+
 
 function App() {
- 
+
 
   return (
     <>
-       <UseReducer3 />
+  <Redux1/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -1,2 +1,1 @@
-before now about userduecer
-i have one compoentn 
+Reducer than redux
